@@ -1,11 +1,11 @@
 In this folder you fnd following files - 
 
-1. Daraz test case writen in Excel
+1. Test case (for Tasty Treat web site)  writen in Excel
 2. Mind Map draw using Xmind file
 3. Mind map jpg file
 
 Also, 
-#In Daraz test case writen Excel file - 
+#In Tasty Treat test case  Excel file - 
 1. Test plan
 2. Mind map
 3. Test case
