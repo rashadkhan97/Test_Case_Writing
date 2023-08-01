@@ -8,7 +8,7 @@ In the "Daraz" folder, you will find the following files:
 
 1. Test Case (for Daraz website) written in Excel: This Excel file contains detailed test cases for the Daraz website, covering various scenarios to ensure the website's functionality is thoroughly tested.
 
-2. Mind Map draw using Xmind file: This Xmind file presents a visual representation of the test scope and coverage for the Daraz website.
+2. Mind Map drawing using Xmind file: This Xmind file presents a visual representation of the test scope and coverage for the Daraz website.
 
 3. Mind Map jpg file: This is a static image of the mind map created for the Daraz website, providing a quick overview of the test scenarios.
 
