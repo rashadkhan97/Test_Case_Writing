@@ -2,7 +2,7 @@
 
 This repository contains test case documentation for two websites, "Daraz" and "Tasty Treat." Each website has its own folder within the "Test Case Writing" directory.
 
-##Daraz Folder
+##Daraz_Folder
 
 In the "Daraz" folder, you will find the following files:
 
